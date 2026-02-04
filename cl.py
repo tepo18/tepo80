@@ -15,22 +15,7 @@ TEXT_NORMAL = "normal.txt"
 TEXT_FINAL = "final.txt"
 
 LINKS_PATH = [
-
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=websocket&multipath=video,chat,download&compression=json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&multipath=video,chat,download&compression=json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&multipath=video,chat,download&compression=text,json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&compression=text,json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&compression=text&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&compression=auto&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=quic&compression=auto&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/arista?limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=websocket&multipath=video,chat,download&compression=json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&multipath=video,chat,download&compression=json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&multipath=video,chat,download&compression=text,json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&compression=text,json&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&compression=text&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=grpc&compression=auto&limit=all",
-    "https://23.ahsan-tepo20.workers.dev/public?ports=2096,2095,443,8080,8443,2053,2052&stealth=quic&compression=auto&limit=all",
+    
     "https://almasi-9025.batool-sogeli.workers.dev/arista",
     "https://zaya.link/Arista_HP_Final",
     "https://raw.githubusercontent.com/tepo80/tepo80/main/vmess.txt",
@@ -38,16 +23,6 @@ LINKS_PATH = [
     "https://raw.githubusercontent.com/tepo80/tepo80/main/trojan.txt",
     "https://raw.githubusercontent.com/tepo80/tepo80/main/ss.txt",
     "https://raw.githubusercontent.com/tepo80/tepo80/main/h2.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip10.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip20.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip30.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip40.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip50.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip60.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip70.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip80.txt",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/vip90.txt"
   
 ]
 
